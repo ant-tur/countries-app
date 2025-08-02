@@ -9,7 +9,6 @@ A simple React app that allows users to search for countries and view detailed i
 - 🔍 Filter countries by name (real-time search)
 - 📋 View detailed country info (flag, capital, population, languages)
 - 🌦️ Fetch current weather using a weather API (optional)
-- 📱 Responsive design
 - ⚙️ Uses public REST APIs (e.g., [restcountries.com](https://restcountries.com/))
 
 ---
